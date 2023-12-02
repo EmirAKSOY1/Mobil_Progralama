@@ -1,4 +1,4 @@
-#Balıkesir Üniversitesi Mobil Programlama Dersi Ara Sınav Projesi. 
-İçerikler
+-Balıkesir Üniversitesi Mobil Programlama Dersi Ara Sınav Projesi. 
+-İçerikler
   
     
